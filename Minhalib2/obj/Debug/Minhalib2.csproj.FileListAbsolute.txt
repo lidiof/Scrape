@@ -1,0 +1,5 @@
+C:\Users\Pichau\source\repos\Solution18\Minhalib2\bin\Debug\Minhalib2.dll
+C:\Users\Pichau\source\repos\Solution18\Minhalib2\bin\Debug\Minhalib2.pdb
+C:\Users\Pichau\source\repos\Solution18\Minhalib2\obj\Debug\Minhalib2.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Solution18\Minhalib2\obj\Debug\Minhalib2.dll
+C:\Users\Pichau\source\repos\Solution18\Minhalib2\obj\Debug\Minhalib2.pdb

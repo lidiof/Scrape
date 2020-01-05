@@ -1,0 +1,12 @@
+C:\Users\Pichau\source\repos\Solution18\Client\bin\Debug\Client.exe.config
+C:\Users\Pichau\source\repos\Solution18\Client\bin\Debug\Client.exe
+C:\Users\Pichau\source\repos\Solution18\Client\bin\Debug\Client.pdb
+C:\Users\Pichau\source\repos\Solution18\Client\bin\Debug\Minhalib2.dll
+C:\Users\Pichau\source\repos\Solution18\Client\bin\Debug\Minhalid1.dll
+C:\Users\Pichau\source\repos\Solution18\Client\bin\Debug\Minhalib2.pdb
+C:\Users\Pichau\source\repos\Solution18\Client\bin\Debug\Minhalid1.pdb
+C:\Users\Pichau\source\repos\Solution18\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\Solution18\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Solution18\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Pichau\source\repos\Solution18\Client\obj\Debug\Client.exe
+C:\Users\Pichau\source\repos\Solution18\Client\obj\Debug\Client.pdb
